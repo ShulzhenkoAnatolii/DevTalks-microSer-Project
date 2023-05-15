@@ -1,0 +1,57 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+/.mvn/wrapper/maven-wrapper.jar
+/api-gateway/.mvn/wrapper/maven-wrapper.jar
+/config-server-git/.mvn/wrapper/maven-wrapper.jar
+/eureka-client-first/.mvn/wrapper/maven-wrapper.jar
+/eureka-client-second/.mvn/wrapper/maven-wrapper.jar
+/eureka-server/.mvn/wrapper/maven-wrapper.jar
+/.mvn/wrapper/maven-wrapper.properties
+/api-gateway/.mvn/wrapper/maven-wrapper.properties
+/config-server-git/.mvn/wrapper/maven-wrapper.properties
+/eureka-client-first/.mvn/wrapper/maven-wrapper.properties
+/eureka-client-second/.mvn/wrapper/maven-wrapper.properties
+/eureka-server/.mvn/wrapper/maven-wrapper.properties
+/api-gateway/mvnw
+/config-server-git/mvnw
+/eureka-client-first/mvnw
+/eureka-client-second/mvnw
+/eureka-server/mvnw
+/mvnw
+/api-gateway/mvnw.cmd
+/config-server-git/mvnw.cmd
+/eureka-client-first/mvnw.cmd
+/eureka-client-second/mvnw.cmd
+/eureka-server/mvnw.cmd
+/mvnw.cmd
